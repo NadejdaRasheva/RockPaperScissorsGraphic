@@ -115,7 +115,7 @@
             this.YourPointsTag.Font = new System.Drawing.Font("Segoe UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.YourPointsTag.Location = new System.Drawing.Point(56, 313);
             this.YourPointsTag.Name = "YourPointsTag";
-            this.YourPointsTag.Size = new System.Drawing.Size(209, 47);
+            this.YourPointsTag.Size = new System.Drawing.Size(202, 47);
             this.YourPointsTag.TabIndex = 5;
             this.YourPointsTag.Text = "Your Points:";
             this.YourPointsTag.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
