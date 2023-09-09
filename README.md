@@ -1,2 +1,2 @@
 # RockPaperScissorsGraphic
-This is my game Rock Paper Scissors with fraphic interface.
+This is my game Rock Paper Scissors with graphic interface.
